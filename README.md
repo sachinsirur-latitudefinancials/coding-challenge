@@ -1,4 +1,6 @@
 # codingchallenge
 codingchallenge
-1. Use the faker module to generate Fake data
-2. Use the hashlib module to hash the required columns.
+
+For problem statement 1:
+1. Use the faker module to generate data of customer first_name, last_name, address and date_of_birth
+2. Use the hashlib module to hash the required columns first_name, last_name and address.
